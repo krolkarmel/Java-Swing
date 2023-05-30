@@ -1,0 +1,2 @@
+CentrowanieRamki.CentrowanieRamki
+centrowanie.Centrowanie
